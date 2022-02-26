@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elmalakomar
 - 💻 I work at mia-platform.eu
 - 👀 I’m interested in Computer Science, Machine Learning and Mobile development
-- 🌱 I’m currently learning Node.js 
 - 📫 How to reach me elmalakomar@gmail.com
 
 <!---
